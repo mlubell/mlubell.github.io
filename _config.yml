@@ -1,0 +1,37 @@
+# Site
+title: Max Lubell
+description: PhD Candidate, Department of Sociology, University of Texas at Austin
+url: "https://mlubell.github.io"
+
+# Theme
+remote_theme: daviddarnes/alembic@main
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+navigation_header:
+  - title: Max Lubell
+    url: /
+  - title: CV
+    url: /assets/Lubell_CV.pdf
+
+navigation_footer:
+  - title: Max Lubell
+    url: /
+
+# Disable unused features
+social_links:
+email_signup_form_action:
+contact_form_action:
+service_worker: false
+
+# Footer credit
+footer_text: >
+  Image: <em>Asmun's Hill, Hampstead Garden Suburb</em>, c. 1903.
+  Hand-colored photolithograph. Harvard Art Museums/Fogg Museum,
+  Social Museum Collection. Photo © President and Fellows of Harvard College.
