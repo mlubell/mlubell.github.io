@@ -1,0 +1,14 @@
+---
+---
+
+@import "alembic";
+
+// Push the last nav item (CV) to the right
+.nav--header > .nav__list {
+  display: flex;
+  width: 100%;
+}
+
+.nav--header > .nav__list > .nav__item:last-child {
+  margin-left: auto;
+}
