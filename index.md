@@ -3,7 +3,7 @@ layout: page
 description: PhD Candidate, Department of Sociology, University of Texas at Austin
 ---
 
-<div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: 0.5rem; margin-bottom: 3rem; height: 60vh; min-height: 400px; background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/homepage.png'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center;">
+<div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: 0.3rem; margin-bottom: 3rem; height: 60vh; min-height: 400px; background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/homepage.png'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center;">
   <h1 style="color: white; font-size: 3.5rem; margin: 0 0 0.5rem 0; font-weight: bold;">Max Lubell</h1>
   <p style="color: white; font-size: 1.5rem; margin: 0;">PhD Candidate, Department of Sociology</p>
 </div>
