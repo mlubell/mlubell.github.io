@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Max Lubell
 description: PhD Candidate, Department of Sociology, University of Texas at Austin
 image: /images/homepage.png
