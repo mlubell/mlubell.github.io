@@ -3,12 +3,7 @@
 
 @import "alembic";
 
-// Push the last nav item (CV) to the right
-.nav--header > .nav__list {
-  display: flex;
-  width: 100%;
-}
-
-.nav--header > .nav__list > .nav__item:last-child {
+// Push the CV nav item to the right
+.list--nav .item--nav:last-child {
   margin-left: auto;
 }
