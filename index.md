@@ -3,9 +3,58 @@ layout: page
 description: PhD Candidate, Department of Sociology, University of Texas at Austin
 ---
 
-<div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: 0.3rem; margin-bottom: 3rem; height: 60vh; min-height: 400px; background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/homepage.png'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center;">
-  <h1 style="color: white; font-size: 3.5rem; margin: 0 0 0.5rem 0; font-weight: bold;">Max Lubell</h1>
-  <p style="color: white; font-size: 1.5rem; margin: 0;">PhD Candidate, Department of Sociology</p>
+<style>
+  .hero {
+    position: relative;
+    width: 100vw;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: 0.5rem;
+    margin-bottom: 3rem;
+    height: 60vh;
+    min-height: 400px;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/homepage.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  .hero h1 {
+    color: white;
+    font-size: 3.5rem;
+    margin: 0 0 0.5rem 0;
+    font-weight: bold;
+  }
+  .hero p {
+    color: white;
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  @media (max-width: 640px) {
+    .hero {
+      height: 40vh;
+      min-height: 280px;
+      margin-bottom: 2rem;
+    }
+    .hero h1 {
+      font-size: 2.25rem;
+    }
+    .hero p {
+      font-size: 1rem;
+      padding: 0 1rem;
+    }
+  }
+</style>
+
+<div class="hero">
+  <h1>Max Lubell</h1>
+  <p>PhD Candidate, Department of Sociology</p>
 </div>
 
 Max Lubell is a doctoral candidate in the Department of Sociology at the University of Texas at Austin. His research interests include (sub)urban sociology, crime and law, race and ethnicity, and technology and society. He examines how ordinary residents engage in efforts to reduce crime, address neighborhood disorder, and build community cohesion across a range of neighborhood contexts. Across multiple projects, he uses qualitative and quantitative methods that draw on interview data, participant observations, and spatial analysis. Max's research is supported by the National Science Foundation Graduate Research Fellowship and the BRIDGS Emergent Scholar Fellowship. He is also the recipient of the 2025 ASA Community and Urban Sociology Section's graduate student paper award.
