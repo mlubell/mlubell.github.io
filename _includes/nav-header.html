@@ -1,6 +1,13 @@
 <style>
-  .nav--header .list--nav { display: flex; width: 100%; }
-  .nav--header .list--nav .item--nav:last-child { margin-left: auto; }
+  .nav--header { width: 100%; }
+  .nav--header .list--nav {
+    display: flex;
+    flex: 1;
+    width: 100%;
+  }
+  .nav--header .list--nav .item--nav:last-child {
+    margin-left: auto;
+  }
 </style>
 
 {% if site.navigation_header %}
