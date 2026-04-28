@@ -3,7 +3,7 @@ layout: page
 description: PhD Candidate, Department of Sociology, University of Texas at Austin
 ---
 
-<div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: -2rem; margin-bottom: 3rem; height: 60vh; min-height: 400px; background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/homepage.png'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center;">
+<div style="position: relative; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: 1rem; margin-bottom: 3rem; height: 60vh; min-height: 400px; background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/homepage.png'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center;">
   <h1 style="color: white; font-size: 3.5rem; margin: 0 0 0.5rem 0; font-weight: bold;">Max Lubell</h1>
   <p style="color: white; font-size: 1.5rem; margin: 0;">PhD Candidate, Department of Sociology</p>
 </div>
@@ -13,3 +13,5 @@ Max Lubell is a doctoral candidate in the Department of Sociology at the Univers
 His dissertation investigates how neighborhood-based digital platforms are folded into community life in suburban areas. The project pairs quantitative analysis of suburbs across the United States with in-depth fieldwork in a racially diverse suburb of Central Texas. This work advances a growing area of research on the role of digital technology in the social organization of community life. In another line of work, he examines how community violence intervention programs build trust with young people living in neighborhoods shaped by historical inequities in policing and economic disinvestment.
 
 Max is also a volunteer with the Texas Prison Education Initiative, where he helps to bring college courses to incarcerated adults. Prior to graduate school, Max was a research manager at the University of Chicago's Crime Lab, where he managed mixed-methods research projects and randomized evaluations of youth violence interventions.
+
+<p style="font-size: 0.75rem; color: #888; margin-top: 4rem; line-height: 1.5;">Header Image: "Housing, Improved: Great Britain, England. Hampstead. Garden Suburb (Copartnership and Private) Plans of Estate and Cottages: Hampstead Garden Suburb: Asmun's Hill, Hampstead Garden Suburb. (Unidentified Artist), 3.2002.1739.2," Harvard Art Museums collections online, Apr 28, 2026, <a href="https://hvrd.art/o/17163" style="color: #888;">https://hvrd.art/o/17163</a>.</p>
