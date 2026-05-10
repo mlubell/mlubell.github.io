@@ -2,7 +2,6 @@
 title: Max Lubell
 description: PhD Candidate, Department of Sociology, University of Texas at Austin
 url: "https://maxlubell.com"
-indexing: true
 
 # Theme
 remote_theme: daviddarnes/alembic@main
@@ -30,6 +29,7 @@ social_links:
 email_signup_form_action:
 contact_form_action:
 service_worker: false
+indexing: true
 
 # Footer credit
 footer_text: >
