@@ -65,7 +65,6 @@ description: PhD Candidate, Department of Sociology, University of Texas at Aust
   }
 p {
   text-align: justify;
-  hyphens: auto;
 }
 </style>
 <div class="hero">
