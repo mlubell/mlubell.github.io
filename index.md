@@ -63,6 +63,10 @@ description: PhD Candidate, Department of Sociology, University of Texas at Aust
       width: 160px;
     }
   }
+p {
+  text-align: justify;
+  hyphens: auto;
+}
 </style>
 <div class="hero">
   <h1>Max Lubell</h1>
