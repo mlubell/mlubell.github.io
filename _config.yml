@@ -24,6 +24,8 @@ navigation_footer:
   - title: Max Lubell
     url: /
 
+google_analytics: "G-H8F6T1QHTZ"
+
 # Disable unused features
 social_links:
 email_signup_form_action:
