@@ -65,6 +65,8 @@ description: PhD Candidate, Department of Sociology, University of Texas at Aust
   }
 p {
   text-align: justify;
+  font-size: 1.05rem;
+  font-family: Georgia, serif;
 }
 </style>
 <div class="hero">
