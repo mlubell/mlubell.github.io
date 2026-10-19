@@ -74,7 +74,7 @@ p {
   <p>PhD Candidate, Department of Sociology</p>
 </div>
 <img src="/images/headshot.jpg" alt="Max Lubell" class="headshot">
-Max Lubell is a doctoral candidate in the Department of Sociology at the University of Texas at Austin. His research interests include (sub)urban sociology, crime and law, race and ethnicity, and technology and society. He examines how ordinary residents engage in efforts to reduce crime, address neighborhood disorder, and build community cohesion across a range of neighborhood contexts. His research uses qualitative and quantitative methods that draw on interview data, participant observations, and spatial analysis. 
+Max Lubell is a doctoral candidate in the Department of Sociology at the University of Texas at Austin. His research interests include (sub)urban sociology, crime and law, race and ethnicity, and technology and society. Max’s work examines how the criminal legal system, digital technologies, and demographic change shape neighborhoods and the governance of public space. His research uses qualitative and quantitative methods that draw on interview data, participant observations, and spatial analysis. 
 
 Max's work is forthcoming in *Social Problems* and appears in [*City & Community*](https://journals.sagepub.com/doi/10.1177/15356841261490492). His research has received funding support and awards from the Horowitz Foundation for Social Policy Dissertation Grant, National Science Foundation Graduate Research Fellowship, Arizona State University BRIDGS Emergent Scholar Fellowship, and American Sociological Association's Crime, Law, and Deviance and Community and Urban Sociology sections. 
 
