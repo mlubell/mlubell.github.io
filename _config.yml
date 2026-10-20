@@ -3,6 +3,18 @@ title: Max Lubell
 description: PhD Candidate, Department of Sociology, University of Texas at Austin
 url: "https://maxlubell.com"
 
+# Search engine profile (read by jekyll-seo-tag, not shown to visitors)
+social:
+  name: Max Lubell
+  links:
+    - https://www.linkedin.com/in/mlubell
+    - https://liberalarts.utexas.edu/sociology/gradstudents/ml52663
+    - https://liberalarts.utexas.edu/prc/faculty/ml52663
+
+author:
+  name: Max Lubell
+  url: https://maxlubell.com
+
 # Theme
 remote_theme: daviddarnes/alembic@main
 

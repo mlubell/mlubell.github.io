@@ -1,5 +1,7 @@
 ---
 layout: page
+seo:
+  type: Person
 description: PhD Candidate, Department of Sociology, University of Texas at Austin
 ---
 <style>
